@@ -1,5 +1,5 @@
 <template>
-    <Search msg="FETCH API" />
+    <Search msg="Rakuten Books FETCH API" />
 </template>
 
 <script>
